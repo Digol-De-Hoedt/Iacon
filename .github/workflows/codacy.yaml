@@ -1,0 +1,44 @@
+name: Codacy Status Check
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  codacy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install Codacy CLI
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install Codacy CLI
+        run: npm install -g codacy-cli
+
+      - name: Analyze code with Codacy
+        run: codacy-cli analyze
+
+      - name: Check Codacy status
+        uses: actions/github-script@v6
+        with:
+          script: |
+            if (github.event.pull_request) {
+              const codacyStatus = await github.actions.getWorkflowRunStatus({
+                workflow_id: 'codacy',
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                run_id: github.event.pull_request.id
+              });
+
+              if (codacyStatus.conclusion !== 'success') {
+                throw new Error('Codacy analysis failed.');
+              }
+            }
