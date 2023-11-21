@@ -1,0 +1,27 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+TR_perfusera_SewingJobSacanning_Pageload,1,333,333,333,333,333,333,333,0.000%,2.57069,33.56,2.79
+TR_perfuserb_SewingJobSacanning_Pageload,1,267,267,267,267,267,267,267,0.000%,3.14465,41.05,3.41
+TR_perfusera_SewingJobSacanning_ContinueButtonClick,1,138,138,138,138,138,138,138,0.000%,5.31915,194.41,6.16
+TR_perfuserb_SewingJobSacanning_ContinueButtonClick,1,115,115,115,115,115,115,115,0.000%,5.98802,218.86,6.94
+TR_perfuserc_SewingJobSacanning_Pageload,1,218,218,218,218,218,218,218,0.000%,3.69004,48.17,4.00
+TR_perfuserc_SewingJobSacanning_ContinueButtonClick,1,138,138,138,138,138,138,138,0.000%,5.29101,193.38,6.13
+TR_perfuserd_SewingJobSacanning_Pageload,1,283,283,283,283,283,283,283,0.000%,2.98507,38.97,3.24
+TR_perfusere_SewingJobSacanning_Pageload,1,183,183,183,183,183,183,183,0.000%,4.14938,54.16,4.50
+TR_perfuserd_SewingJobSacanning_ContinueButtonClick,1,119,119,119,119,119,119,119,0.000%,5.68182,207.66,6.58
+TR_perfusere_SewingJobSacanning_ContinueButtonClick,1,109,109,109,109,109,109,109,0.000%,6.32911,231.32,7.33
+TR_perfusere_Scanning&Reporting,1,516,516,516,516,516,516,516,100.000%,1.93798,0.00,0.00
+TR_SUB_perfusere_SacanSewingJobNumberAndEnterReportingQty,1,394,394,394,394,394,394,394,100.000%,1.93798,1.85,2.76
+TR_SUB_perfusera_SacanSewingJobNumberAndEnterReportingQty,1,1396,1396,1396,1396,1396,1396,1396,0.000%,.66756,0.87,0.95
+Debug Sampler,4,0,0,0,0,0,0,0,0.000%,3.30306,3.97,0.00
+TR_SUB_perfuserb_SacanSewingJobNumberAndEnterReportingQty,1,1923,1923,1923,1923,1923,1923,1923,0.000%,.49116,0.64,0.70
+TR_SUB_perfuserd_SacanSewingJobNumberAndEnterReportingQty,1,1733,1733,1733,1733,1733,1733,1733,0.000%,.54142,0.71,0.77
+TR_SUB_perfuserc_SacanSewingJobNumberAndEnterReportingQty,1,2322,2322,2322,2322,2322,2322,2322,0.000%,.41288,0.54,0.59
+TR_SUB_perfusera_SewingJobReport_SubmitButtonClick,1,2243,2243,2243,2243,2243,2243,2243,0.000%,.42373,2.21,1.28
+TR_perfusera_Scanning&Reporting,1,3639,3639,3639,3639,3639,3639,3639,0.000%,.25913,2.00,1.15
+TR_SUB_perfuserb_SewingJobReport_SubmitButtonClick,1,2319,2319,2319,2319,2319,2319,2319,0.000%,.41339,2.11,1.25
+TR_perfuserb_Scanning&Reporting,1,4242,4242,4242,4242,4242,4242,4242,0.000%,.22447,1.71,1.00
+TR_SUB_perfuserd_SewingJobReport_SubmitButtonClick,1,2158,2158,2158,2158,2158,2158,2158,0.000%,.44189,2.26,1.33
+TR_perfuserd_Scanning&Reporting,1,3891,3891,3891,3891,3891,3891,3891,0.000%,.24331,1.85,1.08
+TR_SUB_perfuserc_SewingJobReport_SubmitButtonClick,1,2283,2283,2283,2283,2283,2283,2283,0.000%,.41754,2.13,1.26
+TR_perfuserc_Scanning&Reporting,1,4605,4605,4605,4605,4605,4605,4605,0.000%,.20756,1.58,0.92
+TOTAL,28,1270,333,3639,4242,4605,0,4605,7.143%,4.92698,54.56,8.47

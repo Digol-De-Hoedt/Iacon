@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:dev": "cypress open --env fileConfig=development",
+    "cy:stage": "cypress open --env fileConfig=stage",
+    "cy:production": "cypress open --env fileConfig=production",
+    "cyrun": "cypress run --env fileConfig=development",
+    "scenarios": "cypress run --env fileConfig=development --spec 'cypress/integration/API/scenarios/docket-generation/single-color-docket-generation.spec.ts'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.0.0"
+  },
+  "devDependencies": {
+    "@cypress/schema-tools": "^4.7.8",
+    "@types/node": "^16.11.6",
+    "cypress": "^8.7.0",
+    "mocha-steps": "^1.3.0",
+    "typescript": "^4.4.4"
+  }
+}

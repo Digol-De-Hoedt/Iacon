@@ -1,0 +1,36 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+TR_PackBased_MasterPOPlan_PageLoad,1,270,270,270,270,270,270,270,0.000%,2.69542,3.81,3.67
+TR_PackBased_MasterPOPlan_FillData,1,482,482,482,482,482,482,482,0.000%,1.45560,9.43,4.14
+TR_PackBased_MasterPOPlan_Search_ButtonClick,1,127,127,127,127,127,127,127,0.000%,4.27350,5.63,6.42
+TR_PackBased_MasterPOPlan_Proceed_ButtonClick,1,954,954,954,954,954,954,954,0.000%,.57307,12.11,5.45
+TR_PackBased_OperationRouting_Save_ButtonClick,1,228,228,228,228,228,228,228,0.000%,2.23714,5.53,6.65
+TR_PackBased_JobPreference_PageLoad,1,204,204,204,204,204,204,204,0.000%,2.42131,18.36,6.96
+TR_PackBased_JobPreference_Save_ButtonClick,1,252,252,252,252,252,252,252,0.000%,2.08333,5.65,6.26
+TR_PackBased_AddAdditionalQty_PageLoad,1,329,329,329,329,329,329,329,0.000%,1.51976,15.26,6.46
+TR_PackBased_AddAdditionalQty_Submit_ButtonClick,1,375,375,375,375,375,375,375,0.000%,1.67224,5.47,6.37
+TR_PackBased_FabricProperties_PageLoad,1,688,688,688,688,688,688,688,0.000%,.97752,15.47,4.22
+TR_PackBased_FabricProperties_ExcessCut_Save_ButtonClick,1,267,267,267,267,267,267,267,0.000%,2.06186,16.91,6.04
+TR_PackBased_FabricProperties_MaxPlies_Update_ButtonClick,1,326,326,326,326,326,326,326,0.000%,1.96078,6.61,5.64
+TR_PackBased_FabricProperties_EntermaxpliesAction_1,1,465,465,465,465,465,465,465,0.000%,1.11483,6.58,6.36
+TR_PackBased_FabricProperties_EntermaxpliesAction_2,1,439,439,439,439,439,439,439,0.000%,1.12486,6.65,6.41
+TR_PackBased_ComponentGroupAssigment_PageLoad,1,298,298,298,298,298,298,298,0.000%,1.62602,14.43,7.04
+TR_PackBased_ComponentGroupAssigment_Save_ButtonClick,1,741,741,741,741,741,741,741,0.000%,.65402,8.40,7.14
+TR_PackBased_ComponentGroupAssigment_Search_ButtonClick (Swap),1,641,641,641,641,641,641,641,0.000%,.84034,7.12,6.13
+TR_PackBased_SubPOCreation_PageLoad,1,683,683,683,683,683,683,683,0.000%,.89847,10.21,5.21
+TR_PackBased_SubPOCreation_forProductionOrder,1,808,808,808,808,808,808,808,0.000%,.69735,7.92,5.14
+TR_PackBased_SubPORatio_PageLoad,1,551,551,551,551,551,551,551,0.000%,.93545,13.29,6.67
+TR_PackBased_SubPORatio_SubPO_FillRatio_R1,1,1124,1124,1124,1124,1124,1124,1124,0.000%,.42699,5.52,6.60
+TR_PackBased_SubPORatio_SubPO_AddRatio_R1,1,311,311,311,311,311,311,311,0.000%,1.67224,10.73,5.59
+TR_PackBased_SubPORatio_SubPO_FillRatio_R2,1,1069,1069,1069,1069,1069,1069,1069,0.000%,.45537,5.66,6.75
+TR_PackBased_SubPORatio_SubPO_AddRatio_R2,1,289,289,289,289,289,289,289,0.000%,1.98020,13.93,6.62
+TR_PackBased_SubPOMarker_Pageload,1,530,530,530,530,530,530,530,0.000%,.94340,13.47,6.59
+TR_PackBased_SubPOMarker_Versions1_Save_Button_Click,1,295,295,295,295,295,295,295,0.000%,1.98413,8.91,6.03
+TR_PackBased_SubPOMarker_Versions2_Save_Button_Click,1,274,274,274,274,274,274,274,0.000%,2.05761,10.57,6.26
+TR_PackBased_MarkerSummary_PageLoad,1,310,310,310,310,310,310,310,0.000%,1.92308,14.65,5.60
+TR_PackBased_MarkerSummary_SubPo_Load,1,155,155,155,155,155,155,155,0.000%,3.92157,10.37,5.48
+TR_PackBased_PackingList_PageLoad,1,630,630,630,630,630,630,630,0.000%,.86806,11.27,6.28
+TR_PackBased_GenerateDockets_PageLoad,1,219,219,219,219,219,219,219,0.000%,2.35849,17.97,6.87
+TR_PackBased_GenerateDockets_SubPo_Load,1,111,111,111,111,111,111,111,0.000%,4.76190,9.40,6.82
+TR_PackBased_GenerateDockets_Wait,1,310204,310204,310204,310204,310204,310204,310204,0.000%,.00322,0.12,0.16
+TR_PackBased_GenerateDockets_ButtonClick,1,661,661,661,661,661,661,661,0.000%,1.22100,3.15,2.76
+TOTAL,34,9567,329,954,1069,310204,111,310204,0.000%,.10067,0.88,0.64

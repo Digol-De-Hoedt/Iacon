@@ -1,0 +1,8 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+TR_perfusera_SewingJobSacanning_Pageload,1,257,257,257,257,257,257,257,0.000%,3.16456,41.31,3.43
+TR_perfusera_SewingJobSacanning_ContinueButtonClick,1,111,111,111,111,111,111,111,0.000%,6.49351,237.33,7.52
+TR_SUB_perfusera_SacanSewingJobNumberAndEnterReportingQty,1,1050,1050,1050,1050,1050,1050,1050,0.000%,.85911,1.12,1.22
+Debug Sampler,1,0,0,0,0,0,0,0,0.000%,∞,0.00,0.00
+TR_SUB_perfusera_SewingJobReport_SubmitButtonClick,1,1833,1833,1833,1833,1833,1833,1833,0.000%,.51046,2.67,1.54
+TR_perfusera_Scanning&Reporting,1,2883,2883,2883,2883,2883,2883,2883,0.000%,.32010,2.47,1.42
+TOTAL,6,1022,257,1833,2883,2883,0,2883,0.000%,1.66945,18.10,3.09

@@ -1,0 +1,2 @@
+i user fail due to data duplication issue out of 200
+max scanning and reporting time 34.6 Sec

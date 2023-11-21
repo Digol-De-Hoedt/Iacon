@@ -1,0 +1,26 @@
+{
+  "baseUrl": "https://gateway-col.qa.brandixlk.org/function",
+  "env": {
+    "environment": "production",
+    "userName": "dev",
+    "plantCode": "ENV",
+    "subPoNumber": "629880d0-3dfb-11ec-97be-0f881bce6769",
+    "masterPoNumber": "f75fda79-39f3-4a5b-9f75-d7f667fe0fdc",
+    "token": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJrVk9TNnZZUGtmTm5ZUTVRVE13Z1JwYTBfUnVDdFh6YklpMU4xdk56SEZrIn0.eyJleHAiOjE2MzY3NzA1MTMsImlhdCI6MTYzNjYyMTk3NCwiYXV0aF90aW1lIjoxNjM2NTk3NzEzLCJqdGkiOiJhMmI3NGFiYS1iYTBmLTRjMmQtYjRhMy1kYTUzZDU5Yjc3MmEiLCJpc3MiOiJodHRwczovL2tleWNsb2FrLWNvbC5xYS5icmFuZGl4bGsub3JnL2F1dGgvcmVhbG1zL3NmY3MiLCJhdWQiOiJhY2NvdW50Iiwic3ViIjoiOWUwYjZkZDEtOGIzMi00ZjZiLWFmODUtM2VkYjAyNjMyMDNlIiwidHlwIjoiQmVhcmVyIiwiYXpwIjoicHBzLWZyb250LWVuZCIsIm5vbmNlIjoiZTUzMWI4YzYtZmI3MS00Y2NiLTg2ZDktOThhOGM1MDgwNTA5Iiwic2Vzc2lvbl9zdGF0ZSI6ImZlM2M0ZTY2LWU5MjctNDU0Ny05NGY5LTU4MDQ3ODMzOWZhYSIsImFjciI6IjAiLCJhbGxvd2VkLW9yaWdpbnMiOlsiKiJdLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsiUGxhbnQgS2V5IFVzZXIiLCJkZWZhdWx0LXJvbGVzLXNmY3MiLCJzZmNzLWFkbWluIiwib2ZmbGluZV9hY2Nlc3MiLCJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7ImFjY291bnQiOnsicm9sZXMiOlsibWFuYWdlLWFjY291bnQiLCJtYW5hZ2UtYWNjb3VudC1saW5rcyIsInZpZXctcHJvZmlsZSJdfX0sInNjb3BlIjoib3BlbmlkIGVtYWlsIHByb2ZpbGUiLCJzaWQiOiJmZTNjNGU2Ni1lOTI3LTQ1NDctOTRmOS01ODA0NzgzMzlmYWEiLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsIm5hbWUiOiJkZXYgZGV2IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiZGV2IiwiZ2l2ZW5fbmFtZSI6ImRldiIsImZhbWlseV9uYW1lIjoiZGV2In0.ZWoHFkkJop5rO0IGKZ5g3Puj2xqN2A2yFnz11KxRrqaSQcOITTs2vBKMWt0FDc5cZ0z-T-I0NJgT51Eh0qCT9zbKYNNpfNDvQdWkjIgrX3pSnwEOYVNOkqmhIkm0TE95cdpUUrAGMwWCqiaiDr8Idsw8bt_efO0s2SzicM_1wuWS6l4KsEu7YZL2GZjGK6EcSztPb7tMA-fV0U-CpghC9q19S91mXwNkDiJsbQVtgUTTj5Y0HerMSq55UHfjIyiMp6wyjYdHZAIq1bjMbFyT12tn-ePIjP1tlwvpdYNcUoQJrTcQmSSkQWg9DOKvdXjjSbNPypUVRnE4IRCfKBx2vA",
+    "pps": "production-planning-service",
+    "mdm": "master-data-management-service",
+    "sms": "style-management-service",
+    "oms": "order-management-service",
+    "componentGroupStyle": "SFPFMENV",
+    "componentGroupSchedule": "767800",
+    "componentGroupColor": "SFWhite",
+    "wastageStyle": "SFSTBEL1",
+    "wastageSchedule": "767173",
+    "wastageColor": "SFBlack",
+    "multiColorSchedule": "767308",
+    "multiColorStyle": "SFSTBEL4",
+    "singleColorStyle": "SFPFMENV",
+    "singleColorSchedule": "767813",
+    "singleColorColor": "SFBlack"
+  }
+}

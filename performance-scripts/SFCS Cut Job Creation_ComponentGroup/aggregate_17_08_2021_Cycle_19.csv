@@ -1,0 +1,167 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+TR_perfusera_MasterPOPlan_PageLoad,1,504,504,504,504,504,504,504,0.000%,1.64204,2.88,2.22
+TR_perfuserb_MasterPOPlan_PageLoad,1,321,321,321,321,321,321,321,0.000%,2.35849,4.13,3.19
+TR_perfuserc_MasterPOPlan_PageLoad,1,310,310,310,310,310,310,310,0.000%,2.42718,4.25,3.28
+TR_perfuserd_MasterPOPlan_PageLoad,1,276,276,276,276,276,276,276,0.000%,2.57732,4.52,3.48
+TR_perfusera_MasterPOPlan_FillData,1,329,329,329,329,329,329,329,0.000%,1.78571,11.24,5.03
+TR_perfuserb_MasterPOPlan_FillData,1,346,346,346,346,346,346,346,0.000%,1.73913,10.95,4.90
+TR_perfusera_MasterPOPlan_Search_ButtonClick,1,185,185,185,185,185,185,185,0.000%,3.40136,4.17,5.07
+TR_perfuserc_MasterPOPlan_FillData,1,308,308,308,308,308,308,308,0.000%,1.86567,11.75,5.26
+TR_perfuserb_MasterPOPlan_Search_ButtonClick,1,131,131,131,131,131,131,131,0.000%,4.23729,5.20,6.31
+TR_perfuserd_MasterPOPlan_FillData,1,309,309,309,309,309,309,309,0.000%,1.87970,11.84,5.30
+TR_perfuserc_MasterPOPlan_Search_ButtonClick,1,132,132,132,132,132,132,132,0.000%,3.93701,4.83,5.87
+TR_perfuserd_MasterPOPlan_Search_ButtonClick,1,142,142,142,142,142,142,142,0.000%,3.98406,4.89,5.94
+TR_perfusera_MasterPOPlan_Proceed_ButtonClick,1,824,824,824,824,824,824,824,0.000%,.62578,16.57,5.90
+TR_perfuserb_MasterPOPlan_Proceed_ButtonClick,1,797,797,797,797,797,797,797,0.000%,.62073,16.44,5.85
+TR_perfuserc_MasterPOPlan_Proceed_ButtonClick,1,769,769,769,769,769,769,769,0.000%,.63532,16.83,5.99
+TR_perfuserd_MasterPOPlan_Proceed_ButtonClick,1,780,780,780,780,780,780,780,0.000%,.63939,16.94,6.02
+TR_perfusera_OperationRouting_Save_ButtonClick,1,269,269,269,269,269,269,269,0.000%,1.98020,4.53,5.83
+TR_perfuserb_OperationRouting_Save_ButtonClick,1,252,252,252,252,252,252,252,0.000%,2.04918,4.69,6.04
+TR_perfuserc_OperationRouting_Save_ButtonClick,1,234,234,234,234,234,234,234,0.000%,2.06612,4.73,6.09
+TR_perfuserd_OperationRouting_Save_ButtonClick,1,242,242,242,242,242,242,242,0.000%,2.11864,4.85,6.24
+TR_perfusera_JobPreference_PageLoad,1,248,248,248,248,248,248,248,0.000%,2.12766,15.75,6.06
+TR_perfuserb_JobPreference_PageLoad,1,245,245,245,245,245,245,245,0.000%,2.10970,15.61,6.01
+TR_perfuserc_JobPreference_PageLoad,1,251,251,251,251,251,251,251,0.000%,2.07039,15.32,5.90
+TR_perfuserd_JobPreference_PageLoad,1,273,273,273,273,273,273,273,0.000%,1.97628,14.63,5.63
+TR_perfuserb_JobPreference_Save_ButtonClick,1,321,321,321,321,321,321,321,0.000%,1.87617,4.74,5.59
+TR_perfusera_JobPreference_Save_ButtonClick,1,339,339,339,339,339,339,339,0.000%,1.74825,4.42,5.21
+TR_perfuserc_JobPreference_Save_ButtonClick,1,288,288,288,288,288,288,288,0.000%,1.95312,4.94,5.82
+TR_perfuserd_JobPreference_Save_ButtonClick,1,269,269,269,269,269,269,269,0.000%,2.04082,5.16,6.08
+TR_perfuserb_AddAdditionalQty_PageLoad,1,418,418,418,418,418,418,418,0.000%,1.35685,14.66,5.71
+TR_perfusera_AddAdditionalQty_PageLoad,1,422,422,422,422,422,422,422,0.000%,1.29366,13.98,5.45
+TR_perfuserc_AddAdditionalQty_PageLoad,1,450,450,450,450,450,450,450,0.000%,1.31062,14.16,5.52
+TR_perfuserd_AddAdditionalQty_PageLoad,1,389,389,389,389,389,389,389,0.000%,1.35870,14.68,5.72
+TR_perfuserb_AddAdditionalQty_Submit_ButtonClick,1,288,288,288,288,288,288,288,0.000%,1.90114,5.88,7.20
+TR_perfusera_AddAdditionalQty_Submit_ButtonClick,1,324,324,324,324,324,324,324,0.000%,1.74216,5.39,6.60
+TR_perfuserc_AddAdditionalQty_Submit_ButtonClick,1,279,279,279,279,279,279,279,0.000%,1.94553,6.02,7.37
+TR_perfuserd_AddAdditionalQty_Submit_ButtonClick,1,301,301,301,301,301,301,301,0.000%,1.79856,5.56,6.81
+TR_perfuserb_FabricProperties_PageLoad,1,566,566,566,566,566,566,566,0.000%,1.10375,17.17,4.73
+TR_perfusera_FabricProperties_PageLoad,1,493,493,493,493,493,493,493,0.000%,1.19332,18.56,5.11
+TR_perfuserc_FabricProperties_PageLoad,1,520,520,520,520,520,520,520,0.000%,1.13636,17.68,4.87
+TR_perfuserd_FabricProperties_PageLoad,1,484,484,484,484,484,484,484,0.000%,1.22699,19.09,5.25
+TR_perfusera_FabricProperties_ExcessCut_Save_ButtonClick,1,253,253,253,253,253,253,253,0.000%,2.03252,16.30,5.90
+TR_perfuserb_FabricProperties_ExcessCut_Save_ButtonClick,1,286,286,286,286,286,286,286,0.000%,1.91939,15.39,5.57
+TR_perfuserc_FabricProperties_ExcessCut_Save_ButtonClick,1,261,261,261,261,261,261,261,0.000%,2.09644,16.81,6.09
+TR_perfuserd_FabricProperties_ExcessCut_Save_ButtonClick,1,260,260,260,260,260,260,260,0.000%,2.13220,17.10,6.19
+TR_perfusera_FabricProperties_MaxPlies_Update_ButtonClick,1,328,328,328,328,328,328,328,0.000%,1.82482,5.82,5.20
+TR_perfuserb_FabricProperties_MaxPlies_Update_ButtonClick,1,315,315,315,315,315,315,315,0.000%,1.81159,5.77,5.16
+TR_perfuserc_FabricProperties_MaxPlies_Update_ButtonClick,1,296,296,296,296,296,296,296,0.000%,1.92678,6.14,5.49
+TR_perfuserd_FabricProperties_MaxPlies_Update_ButtonClick,1,290,290,290,290,290,290,290,0.000%,1.91939,6.12,5.47
+TR_perfuserb_FabricProperties_EntermaxpliesAction_1,1,503,503,503,503,503,503,503,0.000%,1.02459,6.19,5.79
+TR_perfusera_FabricProperties_EntermaxpliesAction_1,1,543,543,543,543,543,543,543,0.000%,1.00503,6.08,5.68
+TR_perfuserc_FabricProperties_EntermaxpliesAction_1,1,534,534,534,534,534,534,534,0.000%,1.01729,6.15,5.75
+TR_perfuserd_FabricProperties_EntermaxpliesAction_1,1,518,518,518,518,518,518,518,0.000%,1.01626,6.14,5.75
+TR_perfusera_FabricProperties_EntermaxpliesAction_2,1,507,507,507,507,507,507,507,0.000%,1.01626,6.15,5.74
+TR_perfuserb_FabricProperties_EntermaxpliesAction_2,1,553,553,553,553,553,553,553,0.000%,1.00503,6.09,5.67
+TR_perfuserc_FabricProperties_EntermaxpliesAction_2,1,508,508,508,508,508,508,508,0.000%,1.01833,6.17,5.75
+TR_perfuserd_FabricProperties_EntermaxpliesAction_2,1,511,511,511,511,511,511,511,0.000%,1.02249,6.19,5.77
+TR_perfusera_ComponentGroupAssigment_PageLoad,1,368,368,368,368,368,368,368,0.000%,1.40449,12.08,6.03
+TR_perfuserb_ComponentGroupAssigment_PageLoad,1,368,368,368,368,368,368,368,0.000%,1.41243,12.15,6.06
+TR_perfuserc_ComponentGroupAssigment_PageLoad,1,363,363,363,363,363,363,363,0.000%,1.41044,12.13,6.05
+TR_perfuserd_ComponentGroupAssigment_PageLoad,1,358,358,358,358,358,358,358,0.000%,1.43472,12.34,6.16
+TR_perfusera_ComponentGroupAssigment_Save_ButtonClick,1,842,842,842,842,842,842,842,0.000%,.59207,7.20,6.41
+TR_perfuserb_ComponentGroupAssigment_Save_ButtonClick,1,855,855,855,855,855,855,855,0.000%,.59172,7.19,6.41
+TR_perfuserc_ComponentGroupAssigment_Save_ButtonClick,1,802,802,802,802,802,802,802,0.000%,.59137,7.19,6.40
+TR_perfuserd_ComponentGroupAssigment_Save_ButtonClick,1,943,943,943,943,943,943,943,0.000%,.55402,6.73,6.00
+TR_perfusera_ComponentGroupAssigment_Search_ButtonClick (Swap),1,566,566,566,566,566,566,566,0.000%,.88028,7.06,6.37
+TR_perfuserb_ComponentGroupAssigment_Search_ButtonClick (Swap),1,574,574,574,574,574,574,574,0.000%,.85985,6.90,6.22
+TR_perfuserc_ComponentGroupAssigment_Search_ButtonClick (Swap),1,589,589,589,589,589,589,589,0.000%,.86356,6.93,6.25
+TR_perfuserd_ComponentGroupAssigment_Search_ButtonClick (Swap),1,669,669,669,669,669,669,669,0.000%,.79302,6.36,5.74
+TR_perfuserb_SubPOCreation_PageLoad,1,567,567,567,567,567,567,567,0.000%,.95877,10.55,5.51
+TR_perfusera_SubPOCreation_PageLoad,1,653,653,653,653,653,653,653,0.000%,.89767,9.87,5.16
+TR_perfuserc_SubPOCreation_PageLoad,1,644,644,644,644,644,644,644,0.000%,.89606,9.85,5.15
+TR_perfuserd_SubPOCreation_PageLoad,1,545,545,545,545,545,545,545,0.000%,.99701,10.97,5.73
+TR_perfuserb_SubPOCreation_forProductionOrder,1,883,883,883,883,883,883,883,0.000%,.68353,6.12,4.99
+TR_perfusera_SubPOCreation_forProductionOrder,1,871,871,871,871,871,871,871,0.000%,.68729,6.16,5.02
+TR_perfuserc_SubPOCreation_forProductionOrder,1,833,833,833,833,833,833,833,0.000%,.70922,6.35,5.18
+TR_perfuserd_SubPOCreation_forProductionOrder,1,775,775,775,775,775,775,775,0.000%,.72780,6.52,5.32
+TR_perfuserb_SubPORatio_PageLoad,1,655,655,655,655,655,655,655,0.000%,.82102,11.29,5.80
+TR_perfuserc_SubPORatio_PageLoad,1,569,569,569,569,569,569,569,0.000%,.87719,12.06,6.20
+TR_perfusera_SubPORatio_PageLoad,1,744,744,744,744,744,744,744,0.000%,.75301,10.35,5.32
+TR_perfuserd_SubPORatio_PageLoad,1,592,592,592,592,592,592,592,0.000%,.86059,11.83,6.08
+TR_perfuserc_SubPORatio_SubPO_FillRatio_R1,1,1177,1177,1177,1177,1177,1177,1177,0.000%,.41186,4.92,6.31
+TR_perfuserb_SubPORatio_SubPO_FillRatio_R1,1,1173,1173,1173,1173,1173,1173,1173,0.000%,.40850,4.88,6.26
+TR_perfusera_SubPORatio_SubPO_FillRatio_R1,1,1142,1142,1142,1142,1142,1142,1142,0.000%,.41459,4.95,6.35
+TR_perfuserd_SubPORatio_SubPO_FillRatio_R1,1,1166,1166,1166,1166,1166,1166,1166,0.000%,.41339,4.93,6.33
+TR_perfuserb_SubPORatio_SubPO_AddRatio_R1,1,981,981,981,981,981,981,981,0.000%,.78247,4.88,2.60
+TR_perfuserd_SubPORatio_SubPO_AddRatio_R1,1,822,822,822,822,822,822,822,0.000%,.89206,5.56,2.96
+TR_perfuserc_SubPORatio_SubPO_AddRatio_R1,1,985,985,985,985,985,985,985,0.000%,.76628,4.78,2.54
+TR_perfusera_SubPORatio_SubPO_AddRatio_R1,1,949,949,949,949,949,949,949,0.000%,.80775,5.04,2.68
+TR_perfuserc_SubPORatio_SubPO_FillRatio_R2,1,1109,1109,1109,1109,1109,1109,1109,0.000%,.43668,5.00,6.42
+TR_perfuserd_SubPORatio_SubPO_FillRatio_R2,1,1096,1096,1096,1096,1096,1096,1096,0.000%,.43309,4.96,6.36
+TR_perfuserb_SubPORatio_SubPO_FillRatio_R2,1,1124,1124,1124,1124,1124,1124,1124,0.000%,.42827,4.90,6.29
+TR_perfusera_SubPORatio_SubPO_FillRatio_R2,1,1083,1083,1083,1083,1083,1083,1083,0.000%,.42992,4.92,6.32
+TR_perfuserb_SubPORatio_SubPO_AddRatio_R2,1,374,374,374,374,374,374,374,0.000%,1.69779,11.64,5.63
+TR_perfuserd_SubPORatio_SubPO_AddRatio_R2,1,430,430,430,430,430,430,430,0.000%,1.52207,10.43,5.05
+TR_perfuserc_SubPORatio_SubPO_AddRatio_R2,1,503,503,503,503,503,503,503,0.000%,1.37741,9.44,4.57
+TR_perfusera_SubPORatio_SubPO_AddRatio_R2,1,496,496,496,496,496,496,496,0.000%,1.38122,9.46,4.58
+TR_perfuserb_SubPOMarker_Pageload,1,654,654,654,654,654,654,654,0.000%,.81433,12.10,5.63
+TR_perfuserd_SubPOMarker_Pageload,1,637,637,637,637,637,637,637,0.000%,.82034,12.19,5.68
+TR_perfuserc_SubPOMarker_Pageload,1,590,590,590,590,590,590,590,0.000%,.85034,12.63,5.88
+TR_perfusera_SubPOMarker_Pageload,1,664,664,664,664,664,664,664,0.000%,.79936,11.87,5.53
+TR_perfuserd_SubPOMarker_Versions1_Save_Button_Click,1,295,295,295,295,295,295,295,0.000%,1.90840,8.21,5.75
+TR_perfuserb_SubPOMarker_Versions1_Save_Button_Click,1,385,385,385,385,385,385,385,0.000%,1.62075,6.97,4.88
+TR_perfuserc_SubPOMarker_Versions1_Save_Button_Click,1,319,319,319,319,319,319,319,0.000%,1.79211,7.70,5.40
+TR_perfusera_SubPOMarker_Versions1_Save_Button_Click,1,267,267,267,267,267,267,267,0.000%,1.96850,8.47,5.93
+TR_perfuserd_SubPOMarker_Versions2_Save_Button_Click,1,261,261,261,261,261,261,261,0.000%,2.03252,10.06,6.12
+TR_perfuserb_SubPOMarker_Versions2_Save_Button_Click,1,274,274,274,274,274,274,274,0.000%,1.98413,9.82,5.98
+TR_perfusera_SubPOMarker_Versions2_Save_Button_Click,1,273,273,273,273,273,273,273,0.000%,2.02020,10.00,6.09
+TR_perfuserc_SubPOMarker_Versions2_Save_Button_Click,1,378,378,378,378,378,378,378,0.000%,1.64745,8.15,4.96
+TR_perfuserd_MarkerSummary_PageLoad,1,244,244,244,244,244,244,244,0.000%,2.14133,15.92,6.19
+TR_perfuserb_MarkerSummary_PageLoad,1,256,256,256,256,256,256,256,0.000%,2.07900,15.46,6.01
+TR_perfusera_MarkerSummary_PageLoad,1,256,256,256,256,256,256,256,0.000%,2.03666,15.14,5.88
+TR_perfuserc_MarkerSummary_PageLoad,1,255,255,255,255,255,255,255,0.000%,2.04918,15.24,5.92
+TR_perfuserd_MarkerSummary_SubPo_Load,1,184,184,184,184,184,184,184,0.000%,3.41297,8.69,4.73
+TR_perfuserb_MarkerSummary_SubPo_Load,1,151,151,151,151,151,151,151,0.000%,3.80228,9.68,5.27
+TR_perfuserc_MarkerSummary_SubPo_Load,1,146,146,146,146,146,146,146,0.000%,3.73134,9.50,5.17
+TR_perfusera_MarkerSummary_SubPo_Load,1,175,175,175,175,175,175,175,0.000%,3.46021,8.81,4.79
+TR_perfuserb_PackingList_PageLoad,1,660,660,660,660,660,660,660,0.000%,.80710,10.11,5.79
+TR_perfuserd_PackingList_PageLoad,1,705,705,705,705,705,705,705,0.000%,.76687,9.61,5.50
+TR_perfuserc_PackingList_PageLoad,1,742,742,742,742,742,742,742,0.000%,.75472,9.45,5.41
+TR_perfusera_PackingList_PageLoad,1,793,793,793,793,793,793,793,0.000%,.72833,9.12,5.22
+TR_perfuserb_GenerateDockets_PageLoad,1,238,238,238,238,238,238,238,0.000%,2.14592,15.96,6.20
+TR_perfuserd_GenerateDockets_PageLoad,1,243,243,243,243,243,243,243,0.000%,2.07900,15.46,6.01
+TR_perfuserc_GenerateDockets_PageLoad,1,243,243,243,243,243,243,243,0.000%,2.07900,15.46,6.01
+TR_perfuserb_GenerateDockets_SubPo_Load,1,114,114,114,114,114,114,114,0.000%,4.16667,7.85,5.91
+TR_perfuserd_GenerateDockets_SubPo_Load,1,109,109,109,109,109,109,109,0.000%,4.56621,8.60,6.48
+TR_perfusera_GenerateDockets_PageLoad,1,239,239,239,239,239,239,239,0.000%,2.02840,15.08,5.86
+TR_perfuserc_GenerateDockets_SubPo_Load,1,103,103,103,103,103,103,103,0.000%,4.69484,8.84,6.66
+TR_perfuserb_GenerateDockets_Wait - Before Loop,1,140,140,140,140,140,140,140,0.000%,4.00000,4.05,5.71
+TR_perfuserd_GenerateDockets_Wait - Before Loop,1,125,125,125,125,125,125,125,0.000%,4.48430,4.55,6.40
+TR_perfusera_GenerateDockets_SubPo_Load,1,103,103,103,103,103,103,103,0.000%,4.56621,8.60,6.48
+TR_perfuserc_GenerateDockets_Wait - Before Loop,1,174,174,174,174,174,174,174,0.000%,3.46021,3.51,4.94
+TR_perfusera_GenerateDockets_Wait - Before Loop,1,189,189,189,189,189,189,189,0.000%,3.28947,3.33,4.70
+TR_perfuserd_GenerateDockets_Wait - Loop,1,622868,622868,622868,622868,622868,622868,622868,0.000%,.00161,0.10,0.15
+TR_perfuserd_GenerateDockets_Wait,1,622993,622993,622993,622993,622993,622993,622993,0.000%,.00160,0.10,0.16
+TR_perfuserd_GenerateDockets_ButtonClick,1,665,665,665,665,665,665,665,0.000%,1.18343,2.87,2.65
+TR_perfuserd_GenerateCuts_Wait - Before Loop,1,115,115,115,115,115,115,115,0.000%,4.36681,4.46,6.21
+TR_perfuserc_GenerateDockets_Wait - Loop,1,665200,665200,665200,665200,665200,665200,665200,0.000%,.00150,0.10,0.15
+TR_perfuserc_GenerateDockets_Wait,1,665374,665374,665374,665374,665374,665374,665374,0.000%,.00150,0.10,0.16
+TR_perfuserc_GenerateDockets_ButtonClick,1,687,687,687,687,687,687,687,0.000%,1.16009,2.81,2.60
+TR_perfuserc_GenerateCuts_Wait - Before Loop,1,110,110,110,110,110,110,110,0.000%,4.38596,4.48,6.24
+TR_perfusera_GenerateDockets_Wait - Loop,1,674155,674155,674155,674155,674155,674155,674155,0.000%,.00148,0.10,0.15
+TR_perfusera_GenerateDockets_Wait,1,674344,674344,674344,674344,674344,674344,674344,0.000%,.00148,0.10,0.16
+TR_perfusera_GenerateDockets_ButtonClick,1,656,656,656,656,656,656,656,0.000%,1.22249,2.96,2.74
+TR_perfusera_GenerateCuts_Wait - Before Loop,1,101,101,101,101,101,101,101,0.000%,4.46429,4.56,6.35
+TR_perfuserb_GenerateDockets_Wait - Loop,1,681993,681993,681993,681993,681993,681993,681993,0.000%,.00147,0.10,0.15
+TR_perfuserb_GenerateDockets_Wait,1,682133,682133,682133,682133,682133,682133,682133,0.000%,.00147,0.10,0.16
+TR_perfuserb_GenerateDockets_ButtonClick,1,559,559,559,559,559,559,559,0.000%,1.36612,3.31,3.06
+TR_perfuserb_GenerateCuts_Wait - Before Loop,1,109,109,109,109,109,109,109,0.000%,4.29185,4.39,6.10
+TR_perfuserd_GenerateCuts_Wait - Loop,1,212040,212040,212040,212040,212040,212040,212040,0.000%,.00472,0.10,0.16
+TR_perfuserd_GenerateCuts_Wait,1,212155,212155,212155,212155,212155,212155,212155,0.000%,.00471,0.11,0.16
+TR_perfuserd_GenerateCuts_ButtonClick,1,712,712,712,712,712,712,712,0.000%,1.06838,3.14,6.46
+TR_perfuserd_GenerateCutJobplanning_Wait,1,0,0,0,0,0,0,0,0.000%,333.33333,0.00,0.00
+Debug Sampler,4,0,0,1,1,1,0,1,0.000%,.00554,0.01,0.00
+TR_perfuserc_GenerateCuts_Wait - Loop,1,597065,597065,597065,597065,597065,597065,597065,0.000%,.00167,0.10,0.16
+TR_perfuserc_GenerateCuts_Wait,1,597175,597175,597175,597175,597175,597175,597175,0.000%,.00167,0.11,0.16
+TR_perfuserc_GenerateCuts_ButtonClick,1,1211,1211,1211,1211,1211,1211,1211,0.000%,.69541,2.04,4.21
+TR_perfuserc_GenerateCutJobplanning_Wait,1,0,0,0,0,0,0,0,0.000%,500.00000,0.00,0.00
+TR_perfusera_GenerateCuts_Wait - Loop,1,807891,807891,807891,807891,807891,807891,807891,0.000%,.00124,0.10,0.16
+TR_perfusera_GenerateCuts_Wait,1,807992,807992,807992,807992,807992,807992,807992,0.000%,.00124,0.11,0.16
+TR_perfusera_GenerateCuts_ButtonClick,1,1184,1184,1184,1184,1184,1184,1184,0.000%,.70872,2.08,4.29
+TR_perfusera_GenerateCutJobplanning_Wait,1,0,0,0,0,0,0,0,0.000%,500.00000,0.00,0.00
+TR_perfuserb_GenerateCuts_Wait - Loop,1,874387,874387,874387,874387,874387,874387,874387,0.000%,.00114,0.10,0.16
+TR_perfuserb_GenerateCuts_Wait,1,874496,874496,874496,874496,874496,874496,874496,0.000%,.00114,0.11,0.16
+TR_perfuserb_GenerateCuts_ButtonClick,1,754,754,754,754,754,754,754,0.000%,1.01420,2.98,6.13
+TR_perfuserb_GenerateCutJobplanning_Wait,1,0,0,0,0,0,0,0,0.000%,250.00000,0.00,0.00
+TOTAL,168,61559,430,1184,665374,807992,0,874496,0.000%,.10584,1.33,1.45
