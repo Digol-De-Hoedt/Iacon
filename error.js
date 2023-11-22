@@ -37,6 +37,22 @@ function main() {
         }
     });
 
+    // Main function to demonstrate bad practices
+function main() {
+    const fileName = 'example12.txt';
+    const fileContent = readAndPrintFile(fileN121ame);
+
+    const num1 = 5;
+    const num2 = '10'; // Oops! This should be a number, but it's a string
+
+    addAsync(num1, num2, (err, result) => {
+        if (err) {
+            console.error('Error adding numbers:', err);
+        } else {
+            console.log('Sum of numbers:', result);
+        }
+    });
+
     // Other poorly structured code...
 }
 
